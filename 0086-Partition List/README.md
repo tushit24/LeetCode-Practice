@@ -1,4 +1,4 @@
-86. Partition List
+<h1>86. Partition List</h1>
 
 Medium
 
